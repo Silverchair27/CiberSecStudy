@@ -50,8 +50,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Fundamentos: variáveis, tipos, condições, loops, funções, arquivos, regex, JSON/CSV
 - [x] Projetos: parser de logs, IOC extractor, hash checker (código em `src/`)
 
-## 07. Git e GitHub (portfólio)
-- [ ] Repositórios, commits, branches, PRs, issues, documentação
+## 07. Git e GitHub (portfólio) — ✅ concluído
+- [x] Repositórios, commits, branches, PRs, issues, documentação
 
 ## 08. SOC — Security Operations Center
 - [ ] Estrutura (N1/N2/N3), workflow, alert triage, escalation

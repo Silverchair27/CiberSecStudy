@@ -7,14 +7,8 @@ consiga navegar e entender.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Repositórios, commits e branches](01-repositorios-commits-branches.md) · [📄 PDF](01-repositorios-commits-branches.pdf)
+2. [Pull Requests e Issues](02-pull-requests-issues.md) · [📄 PDF](02-pull-requests-issues.pdf)
+3. [README profissional e organização de portfólio](03-readme-organizacao-portfolio.md) · [📄 PDF](03-readme-organizacao-portfolio.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Repositórios, commits, branches
-- Pull requests, issues
-- README e documentação de projeto
-- Organização de um portfólio de segurança no GitHub
-
-Depois deste módulo, seguimos para **08 — SOC (Security Operations
-Center)** — o início da parte central da formação.
+Módulo concluído ✅ — próximo: [**08 — SOC (Security Operations Center)**](../08-soc/).
