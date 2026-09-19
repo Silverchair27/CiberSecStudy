@@ -12,8 +12,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Hardware, CPU, RAM, armazenamento
 - [x] Processos, threads, memória, arquivos
 - [x] Sistemas operacionais, usuários, grupos, permissões
-- [~] Serviços, cliente/servidor, virtualização, containers
-- [ ] Terminal e processos em background
+- [x] Serviços, cliente/servidor, virtualização, containers
+- [~] Terminal e processos em background
 
 ## 01. Linux para Blue Team
 - [ ] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
