@@ -16,8 +16,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Terminal e processos em background
 
 ## 01. Linux para Blue Team
-- [~] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
-- [ ] Processos, serviços, systemd, cron, SSH
+- [x] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
+- [~] Processos, serviços, systemd, cron, SSH
 - [ ] Logs: syslog, journalctl
 - [ ] Rede: sockets, conexões, firewall, pacotes
 - [ ] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.

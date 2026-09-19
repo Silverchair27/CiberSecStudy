@@ -12,7 +12,8 @@ com ele.
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Processos, serviços, systemd, cron, SSH
+- Processos, serviços, systemd e cron na prática
+- SSH
 - Logs: syslog, journalctl
 - Rede: sockets, conexões, firewall, pacotes
 - Comandos de investigação: ps, top, ss, ip, grep, awk, sed, find, lsof
