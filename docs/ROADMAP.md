@@ -36,7 +36,7 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 
 ## 04. Network Security
-- [ ] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security
+- [x] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security
 - [ ] NetFlow, Zeek, Suricata, Wireshark
 - [ ] Análise de PCAP (exercícios de laboratório)
 

@@ -7,11 +7,10 @@ NOC/SOC de rede.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [IDS, IPS, NIDS e NIPS](01-ids-ips-nids-nips.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- IDS, IPS, NIDS, NIPS
 - Wireshark, Zeek, Suricata
 - NetFlow
 - Análise de PCAP (exercícios de laboratório)
