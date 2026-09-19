@@ -9,10 +9,10 @@ com ele.
 
 1. [Navegação e sistema de arquivos](01-navegacao-sistema-de-arquivos.md)
 2. [Permissões na prática: chmod, chown, sudo](02-permissoes-chmod-chown-sudo.md)
+3. [Processos, systemd e cron na prática](03-processos-systemd-cron.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Processos, serviços, systemd e cron na prática
 - SSH
 - Logs: syslog, journalctl
 - Rede: sockets, conexões, firewall, pacotes
