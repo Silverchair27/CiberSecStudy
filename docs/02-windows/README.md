@@ -8,10 +8,11 @@ com o olhar de "o que isso significa para detecção e investigação".
 ## Aulas
 
 1. [Arquitetura, processos, usuários e Registry](01-arquitetura-processos-registry.md)
+2. [PowerShell](02-powershell.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- PowerShell, Windows Defender, Windows Firewall, Task Scheduler, WMI
+- Windows Defender, Windows Firewall, Task Scheduler, WMI
 - Event Viewer e Windows Event Logs (Event IDs essenciais)
 - Sysmon, PowerShell logging, process creation, logon events
 

@@ -46,6 +46,7 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-🟢 Módulo em andamento: **00 — Fundamentos de Computação** (Aula 3/5
-concluída: serviços, cliente/servidor, virtualização e containers)
-(ver [`docs/00-fundamentos/`](docs/00-fundamentos/)).
+✅ Módulo 00 — Fundamentos de Computação (concluído)
+✅ Módulo 01 — Linux para Blue Team (concluído)
+🟢 Módulo em andamento: **02 — Windows para Blue Team**
+(ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).

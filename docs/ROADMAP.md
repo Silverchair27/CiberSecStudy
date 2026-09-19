@@ -24,8 +24,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
 
 ## 02. Windows para Blue Team
-- [ ] Arquitetura, processos, serviços, usuários/grupos, Registry
-- [ ] PowerShell, Defender, Firewall, Task Scheduler, WMI
+- [x] Arquitetura, processos, serviços, usuários/grupos, Registry
+- [~] PowerShell, Defender, Firewall, Task Scheduler, WMI
 - [ ] Event Viewer e Windows Event Logs (Event IDs essenciais)
 - [ ] Sysmon, PowerShell logging, process creation, logon events
 
