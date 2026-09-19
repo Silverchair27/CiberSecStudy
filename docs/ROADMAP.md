@@ -18,8 +18,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 01. Linux para Blue Team
 - [x] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
 - [x] Processos, serviços, systemd, cron
-- [~] SSH
-- [ ] Logs: syslog, journalctl
+- [x] SSH
+- [~] Logs: syslog, journalctl
 - [ ] Rede: sockets, conexões, firewall, pacotes
 - [ ] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
 
