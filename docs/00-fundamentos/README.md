@@ -8,10 +8,10 @@ só entende um **log estranho** se souber o que gera um log.
 ## Aulas
 
 1. [Hardware, CPU, RAM, armazenamento e processos](01-hardware-cpu-ram-processos.md)
+2. [Sistemas operacionais, usuários, grupos e permissões](02-so-usuarios-grupos-permissoes.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Sistemas operacionais, usuários, grupos, permissões
 - Serviços, arquitetura cliente/servidor
 - Virtualização e containers
 - Terminal e processos em background

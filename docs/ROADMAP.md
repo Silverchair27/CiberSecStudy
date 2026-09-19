@@ -9,10 +9,10 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 + prática/lab feita).
 
 ## 00. Fundamentos de computação
-- [~] Hardware, CPU, RAM, armazenamento
-- [ ] Processos, threads, memória, arquivos
-- [ ] Sistemas operacionais, usuários, grupos, permissões
-- [ ] Serviços, cliente/servidor, virtualização, containers
+- [x] Hardware, CPU, RAM, armazenamento
+- [x] Processos, threads, memória, arquivos
+- [x] Sistemas operacionais, usuários, grupos, permissões
+- [~] Serviços, cliente/servidor, virtualização, containers
 - [ ] Terminal e processos em background
 
 ## 01. Linux para Blue Team

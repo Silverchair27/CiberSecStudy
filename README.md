@@ -46,5 +46,6 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-🟢 Módulo em andamento: **00 — Fundamentos de Computação**
+🟢 Módulo em andamento: **00 — Fundamentos de Computação** (Aula 2/5
+concluída: sistemas operacionais, usuários, grupos e permissões)
 (ver [`docs/00-fundamentos/`](docs/00-fundamentos/)).
