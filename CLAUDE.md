@@ -78,6 +78,23 @@ Cada projeto/laboratório deve gerar evidência do processo, não só código.
 Cada módulo novo em `docs/` deve ter um README/índice curto explicando o
 que cobre e link para os exercícios/labs relacionados.
 
+### PDF de cada aula
+
+Cada arquivo de aula em `docs/**/NN-*.md` tem um `.pdf` gerado ao lado
+(mesmo nome, mesma pasta) — o usuário pede/lê as aulas em PDF, não só no
+markdown. Sempre que uma aula for criada ou editada, gere/regenere o PDF
+correspondente antes de commitar, usando o Chromium headless já
+disponível no ambiente (não depende de pandoc/LaTeX/weasyprint):
+
+```bash
+pip install --quiet markdown   # se ainda não instalado nesta sessão
+python3 scripts/gen_pdfs.py     # converte docs/**/NN-*.md → .pdf ao lado
+```
+
+Se o caminho do Chromium mudar (variável `CHROME` no topo do script),
+localize com `find /opt/pw-browsers -iname chrome -type f`. README.md e
+ROADMAP.md **não** geram PDF — só as aulas numeradas.
+
 ## Simulações (SOC / Threat Hunting / IR)
 
 Ao propor exercícios práticos, use formatos realistas:
