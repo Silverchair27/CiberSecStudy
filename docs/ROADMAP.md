@@ -92,9 +92,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 17. Red Team como apoio ao Blue Team — ✅ concluído
 - [x] PowerShell ofensivo, credential dumping, persistence — cada um com ataque → evidência → detecção → investigação → mitigação
 
-## 18. Web Security
-- [ ] HTTP/HTTPS, auth, sessões, APIs, TLS
-- [ ] Vulnerabilidades (OWASP): conceito → lab → evidências → detecção → correção
+## 18. Web Security — ✅ concluído
+- [x] HTTP/HTTPS, auth, sessões, APIs, TLS (revisão aplicada — Módulo 03, Aula 7)
+- [x] Vulnerabilidades (OWASP): conceito → lab → evidências → detecção → correção (SQLi, XSS, CSRF, IDOR)
 
 ## 19. Active Directory
 - [ ] Domain, DC, OU, GPO, LDAP, Kerberos

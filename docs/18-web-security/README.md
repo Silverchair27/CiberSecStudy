@@ -8,12 +8,8 @@ correção → validação.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [SQL Injection](01-sql-injection.md) · [📄 PDF](01-sql-injection.pdf)
+2. [XSS (Cross-Site Scripting)](02-xss-cross-site-scripting.md) · [📄 PDF](02-xss-cross-site-scripting.pdf)
+3. [CSRF e IDOR / Broken Access Control](03-csrf-idor-broken-access-control.md) · [📄 PDF](03-csrf-idor-broken-access-control.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Fundamentos (revisão aplicada): HTTP/HTTPS, auth, sessões, APIs, TLS
-- Vulnerabilidades: XSS, CSRF, SQL Injection, IDOR e outras do OWASP
-  Top 10, cada uma com o ciclo completo
-
-Depois deste módulo, seguimos para **19 — Active Directory**.
+Módulo concluído ✅ — próximo: [**19 — Active Directory**](../19-active-directory/).
