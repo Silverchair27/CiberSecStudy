@@ -12,6 +12,7 @@ venv/
 
 # Logs / temp
 *.log
+!src/**/exemplo*.log
 *.tmp
 
 # Secrets — nunca versionar

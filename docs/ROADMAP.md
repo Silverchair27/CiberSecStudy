@@ -46,9 +46,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Setup do adaptador AR9271 (driver, interface, modos)
 - [x] Monitoramento e análise de tráfego wireless (somente em lab próprio)
 
-## 06. Python para Blue Team
-- [ ] Fundamentos: variáveis, tipos, condições, loops, funções, arquivos, regex, JSON/CSV
-- [ ] Projetos: parser de logs, analisador de IP, IOC extractor, hash checker
+## 06. Python para Blue Team — ✅ concluído
+- [x] Fundamentos: variáveis, tipos, condições, loops, funções, arquivos, regex, JSON/CSV
+- [x] Projetos: parser de logs, IOC extractor, hash checker (código em `src/`)
 
 ## 07. Git e GitHub (portfólio)
 - [ ] Repositórios, commits, branches, PRs, issues, documentação

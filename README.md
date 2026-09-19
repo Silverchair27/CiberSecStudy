@@ -46,7 +46,7 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-✅ Módulos 00-05 concluídos (Fundamentos, Linux, Windows, Redes, Network
-Security, Wi-Fi/Wireless Security)
-🟢 Módulo em andamento: **06 — Python para Blue Team**
+✅ Módulos 00-06 concluídos (Fundamentos, Linux, Windows, Redes, Network
+Security, Wi-Fi/Wireless Security, Python para Blue Team)
+🟢 Módulo em andamento: **07 — Git e GitHub (portfólio)**
 (ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).

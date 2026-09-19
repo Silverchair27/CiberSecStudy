@@ -1,0 +1,15 @@
+Resumo do incidente #042
+
+O host comprometido (10.0.5.23) se comunicou com o servidor de C2 em
+203.0.113.45 e também resolveu o domínio malicioso
+atualizacao-sistema-seguro.xyz. O e-mail de phishing original veio de
+suporte@paypa1-login.com.
+
+Hash do binário malicioso baixado (SHA256):
+f443bff84bb81314c2127676b365b83f8fd1dc7aad61e538dd2d9ce503921cb5
+
+Hash MD5 do mesmo arquivo, calculado por outra ferramenta:
+d41d8cd98f00b204e9800998ecf8427e
+
+Outra conexão de saída suspeita foi observada para 198.51.100.10 e para
+o domínio painel-cobranca-financeira.com.
