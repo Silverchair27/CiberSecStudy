@@ -86,8 +86,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Preparation → Identification → Triage → Containment → Eradication → Recovery → Lessons Learned
 - [x] Incidentes simulados completos (exemplo resolvido; sessões reais ao vivo, sob pedido)
 
-## 16. Digital Forensics
-- [ ] Timeline, filesystem, memória, artefatos Windows/Linux, browser artifacts
+## 16. Digital Forensics — ✅ concluído
+- [x] Timeline, filesystem, memória, artefatos Windows/Linux, browser artifacts
 
 ## 17. Red Team como apoio ao Blue Team
 - [ ] PowerShell ofensivo, credential dumping, persistence — cada um com ataque → evidência → detecção → investigação → mitigação

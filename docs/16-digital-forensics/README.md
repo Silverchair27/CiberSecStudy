@@ -8,14 +8,7 @@ Windows/Linux/browser.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Timeline, sistema de arquivos e memória](01-timeline-filesystem-memoria.md) · [📄 PDF](01-timeline-filesystem-memoria.pdf)
+2. [Artefatos de Windows, Linux e navegador](02-artefatos-windows-linux-navegador.md) · [📄 PDF](02-artefatos-windows-linux-navegador.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Timeline, sistema de arquivos, logs, memória, processos, conexões
-- Artefatos: Windows, Linux, navegador
-- Ferramentas de forense (com o "o que estamos procurando" sempre antes
-  da ferramenta)
-
-Depois deste módulo, seguimos para **17 — Red Team como Apoio ao Blue
-Team**.
+Módulo concluído ✅ — próximo: [**17 — Red Team como Apoio ao Blue Team**](../17-red-team-apoio/).
