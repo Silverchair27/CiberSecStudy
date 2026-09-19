@@ -13,10 +13,10 @@ porta, qual protocolo, é isso normal ou suspeito?**
 ## Aulas
 
 1. [Endereçamento: LAN/WAN, Ethernet, MAC, IP, subnetting](01-lan-wan-ethernet-mac-ip-subnetting.md)
+2. [ARP e ICMP](02-arp-icmp.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- ARP, ICMP
 - TCP/UDP, portas
 - DNS, DHCP, NAT, roteamento, switching, VLAN
 - Firewall, proxy, VPN

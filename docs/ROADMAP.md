@@ -30,7 +30,7 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Sysmon, PowerShell logging, process creation, logon events
 
 ## 03. Redes — fundamento central
-- [~] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
+- [x] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
 - [ ] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
 - [ ] Firewall, proxy, VPN
 - [ ] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
