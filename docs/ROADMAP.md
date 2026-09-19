@@ -67,9 +67,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Telemetria, process tree, command line, atividade de arquivo/registry/rede
 - [x] Investigações simuladas (PowerShell suspeito, persistência, C2)
 
-## 11. Sysmon
-- [ ] Eventos: process creation, network, file, registry, DNS, image load
-- [ ] Exercício + detecção para cada evento relevante
+## 11. Sysmon — ✅ concluído
+- [x] Eventos: process creation, network, file, registry, DNS, image load
+- [x] Exercício + detecção para cada evento relevante
 
 ## 12. Threat Intelligence
 - [ ] IOC, IOA, TTP, threat actor, campanha, enriquecimento

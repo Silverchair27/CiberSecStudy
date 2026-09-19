@@ -8,13 +8,7 @@ parte da telemetria de qualquer SIEM/EDR em ambiente Windows.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Instalação e configuração](01-instalacao-configuracao.md) · [📄 PDF](01-instalacao-configuracao.pdf)
+2. [Eventos principais em detalhe](02-eventos-principais-em-detalhe.md) · [📄 PDF](02-eventos-principais-em-detalhe.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Instalação e arquivo de configuração (XML)
-- Eventos: process creation, network connection, file creation,
-  registry, DNS, image load
-- Exercício e detecção para cada evento relevante
-
-Depois deste módulo, seguimos para **12 — Threat Intelligence**.
+Módulo concluído ✅ — próximo: [**12 — Threat Intelligence**](../12-threat-intelligence/).
