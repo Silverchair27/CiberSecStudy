@@ -23,14 +23,14 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Rede: sockets, conexões, firewall (pacotes/PCAP fica para o Módulo 04)
 - [x] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
 
-## 02. Windows para Blue Team
+## 02. Windows para Blue Team — ✅ concluído
 - [x] Arquitetura, processos, serviços, usuários/grupos, Registry
 - [x] PowerShell, Defender, Firewall, Task Scheduler, WMI
 - [x] Event Viewer e Windows Event Logs (Event IDs essenciais)
-- [~] Sysmon, PowerShell logging, process creation, logon events
+- [x] Sysmon, PowerShell logging, process creation, logon events
 
 ## 03. Redes — fundamento central
-- [ ] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
+- [~] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
 - [ ] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
 - [ ] Firewall, proxy, VPN
 - [ ] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs

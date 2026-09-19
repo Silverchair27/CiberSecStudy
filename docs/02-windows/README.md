@@ -11,10 +11,9 @@ com o olhar de "o que isso significa para detecção e investigação".
 2. [PowerShell](02-powershell.md)
 3. [Windows Defender, Firewall, Task Scheduler e WMI](03-defender-firewall-taskscheduler-wmi.md)
 4. [Event Viewer e Windows Event Logs (Event IDs essenciais)](04-event-viewer-event-ids.md)
+5. [Sysmon e PowerShell Logging](05-sysmon-powershell-logging.md)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Sysmon, PowerShell logging, process creation, logon events
+Módulo concluído ✅ — próximo: [**03 — Redes**](../03-redes/).
 - Sysmon, PowerShell logging, process creation, logon events
 
 Depois deste módulo, seguimos para **03 — Redes** (fundamento central).
