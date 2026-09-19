@@ -8,16 +8,7 @@ matar processo, coletar evidência).
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Telemetria de EDR: process tree, arquivo, registry e rede](01-telemetria-process-tree-arquivo-registry-rede.md) · [📄 PDF](01-telemetria-process-tree-arquivo-registry-rede.pdf)
+2. [Investigações simuladas de EDR](02-investigacoes-simuladas.md) · [📄 PDF](02-investigacoes-simuladas.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Telemetria: process tree, command line, parent/child, atividade de
-  arquivo/registry/rede
-- Detecções e alertas
-- Ações de resposta (isolar host, matar processo, etc.)
-- Investigações simuladas: PowerShell suspeito, execução de binário,
-  processo filho incomum, persistência, conexão suspeita
-
-Depois deste módulo, seguimos para **11 — Sysmon** (aprofundando a
-telemetria que alimenta tanto SIEM quanto EDR).
+Módulo concluído ✅ — próximo: [**11 — Sysmon**](../11-sysmon/).

@@ -63,9 +63,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Coleta → parsing → normalização → enriquecimento → correlação → indexação → alertas
 - [x] Laboratório (Wazuh — guia completo; execução em rede sem proxy restritivo)
 
-## 10. EDR
-- [ ] Telemetria, process tree, command line, atividade de arquivo/registry/rede
-- [ ] Investigações simuladas (PowerShell suspeito, persistência, C2)
+## 10. EDR — ✅ concluído
+- [x] Telemetria, process tree, command line, atividade de arquivo/registry/rede
+- [x] Investigações simuladas (PowerShell suspeito, persistência, C2)
 
 ## 11. Sysmon
 - [ ] Eventos: process creation, network, file, registry, DNS, image load
