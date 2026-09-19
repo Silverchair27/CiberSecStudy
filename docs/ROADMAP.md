@@ -59,9 +59,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Simulações de alertas (`ALERTA #001`, ...) — metodologia
       documentada; simulações reais acontecem ao vivo, sob pedido
 
-## 09. SIEM
-- [ ] Coleta → parsing → normalização → enriquecimento → correlação → indexação → alertas
-- [ ] Laboratório (Wazuh/Elastic/outro)
+## 09. SIEM — ✅ concluído
+- [x] Coleta → parsing → normalização → enriquecimento → correlação → indexação → alertas
+- [x] Laboratório (Wazuh — guia completo; execução em rede sem proxy restritivo)
 
 ## 10. EDR
 - [ ] Telemetria, process tree, command line, atividade de arquivo/registry/rede

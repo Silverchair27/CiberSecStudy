@@ -8,12 +8,7 @@ acionáveis.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [O pipeline de um SIEM](01-pipeline-coleta-parsing-normalizacao-correlacao.md) · [📄 PDF](01-pipeline-coleta-parsing-normalizacao-correlacao.pdf)
+2. [Laboratório: SIEM com Wazuh](02-laboratorio-wazuh.md) · [📄 PDF](02-laboratorio-wazuh.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Coleta → parsing → normalização → enriquecimento → correlação →
-  indexação → alertas
-- Laboratório prático (Wazuh/Elastic ou outra ferramenta)
-
-Depois deste módulo, seguimos para **10 — EDR**.
+Módulo concluído ✅ — próximo: [**10 — EDR**](../10-edr/).

@@ -46,10 +46,10 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-✅ Módulos 00-08 concluídos (Fundamentos, Linux, Windows, Redes, Network
+✅ Módulos 00-09 concluídos (Fundamentos, Linux, Windows, Redes, Network
 Security, Wi-Fi/Wireless Security, Python para Blue Team, Git/GitHub,
-SOC)
-🟢 Módulo em andamento: **09 — SIEM**
+SOC, SIEM)
+🟢 Módulo em andamento: **10 — EDR**
 (ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).
 Quer praticar uma investigação de alerta ao vivo? É só pedir um
 `ALERTA #001` (ver Módulo 08, Aula 3).
