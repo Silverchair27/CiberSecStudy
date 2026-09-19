@@ -11,10 +11,10 @@ As quatro peças que você precisa entender primeiro:
 
 | Peça | O que faz (simples) | Nome técnico |
 |---|---|---|
-| "Cérebro" que executa instruções | CPU (Central Processing Unit) |
-| "Mesa de trabalho" temporária, rápida, que some quando desliga | RAM (memória volátil) |
-| "Arquivo/gaveta" permanente, mais lento, guarda mesmo desligado | Armazenamento (disco/SSD) |
-| "Portas" de entrada/saída de dados | Periféricos e interfaces de rede |
+| "Cérebro" que executa instruções | processa cada instrução, uma a uma (ou várias em paralelo) | CPU (Central Processing Unit) |
+| "Mesa de trabalho" temporária, rápida, que some quando desliga | guarda o que está em uso agora | RAM (memória volátil) |
+| "Arquivo/gaveta" permanente, mais lento, guarda mesmo desligado | guarda dados de forma permanente | Armazenamento (disco/SSD) |
+| "Portas" de entrada/saída de dados | conectam o computador a periféricos e à rede | Periféricos e interfaces de rede |
 
 ## 2. CPU
 

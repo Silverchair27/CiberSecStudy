@@ -13,11 +13,6 @@ com ele.
 4. [SSH](04-ssh.md)
 5. [Logs: syslog e journalctl](05-logs-syslog-journalctl.md)
 6. [Rede no Linux: sockets, conexões e firewall](06-rede-ss-ip-firewall.md)
+7. [Comandos de investigação: grep, awk, sed, find, lsof](07-grep-awk-sed-find-lsof.md)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Comandos de investigação: grep, awk, sed, find, lsof
-- Rede: sockets, conexões, firewall, pacotes
-- Comandos de investigação: ps, top, ss, ip, grep, awk, sed, find, lsof
-
-Depois deste módulo, seguimos para **02 — Windows para Blue Team**.
+Módulo concluído ✅ — próximo: [**02 — Windows para Blue Team**](../02-windows/).
