@@ -78,9 +78,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 13. MITRE ATT&CK — ✅ concluído
 - [x] Tática → Técnica → Procedimento → Evidência → Detecção → Resposta
 
-## 14. Threat Hunting
-- [ ] Hipótese, baseline, comportamento anômalo, pivot, timeline
-- [ ] Exercícios guiados (sem resposta entregue de imediato)
+## 14. Threat Hunting — ✅ concluído
+- [x] Hipótese, baseline, comportamento anômalo, pivot, timeline
+- [x] Exercícios guiados (metodologia documentada; sessões reais ao vivo, sob pedido)
 
 ## 15. Incident Response
 - [ ] Preparation → Identification → Triage → Containment → Eradication → Recovery → Lessons Learned

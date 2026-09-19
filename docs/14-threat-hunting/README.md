@@ -7,12 +7,10 @@ notificação.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Hipótese, baseline e comportamento anômalo](01-hipotese-baseline-comportamento-anomalo.md) · [📄 PDF](01-hipotese-baseline-comportamento-anomalo.pdf)
+2. [Conduzindo uma caça guiada](02-conduzindo-uma-caca-guiada.md) · [📄 PDF](02-conduzindo-uma-caca-guiada.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
+> Assim como no Módulo 08, praticar de verdade acontece ao vivo — é só
+> pedir uma sessão de Threat Hunting quando quiser.
 
-- Hipótese, baseline, comportamento normal vs. anômalo, TTP, telemetria,
-  query, pivot, timeline
-- Exercícios guiados de hunting (sem resposta entregue de imediato)
-
-Depois deste módulo, seguimos para **15 — Incident Response**.
+Módulo concluído ✅ — próximo: [**15 — Incident Response**](../15-incident-response/).
