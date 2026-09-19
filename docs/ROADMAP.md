@@ -71,9 +71,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Eventos: process creation, network, file, registry, DNS, image load
 - [x] Exercício + detecção para cada evento relevante
 
-## 12. Threat Intelligence
-- [ ] IOC, IOA, TTP, threat actor, campanha, enriquecimento
-- [ ] Análise de IP/domínio/URL/hash
+## 12. Threat Intelligence — ✅ concluído
+- [x] IOC, IOA, TTP, threat actor, campanha, enriquecimento
+- [x] Análise de IP/domínio/URL/hash
 
 ## 13. MITRE ATT&CK
 - [ ] Tática → Técnica → Procedimento → Evidência → Detecção → Resposta

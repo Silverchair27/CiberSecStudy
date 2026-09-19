@@ -8,13 +8,7 @@ isolado em algo com história e contexto.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [IOC, IOA, TTP e o ecossistema de Threat Intelligence](01-ioc-ioa-ttp-ecossistema.md) · [📄 PDF](01-ioc-ioa-ttp-ecossistema.pdf)
+2. [Análise prática: IP, domínio, URL, hash e arquivo](02-analise-pratica-ip-dominio-hash-arquivo.md) · [📄 PDF](02-analise-pratica-ip-dominio-hash-arquivo.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- IOC, IOA, TTP, threat actor, campanha, malware family,
-  infraestrutura, indicadores, reputação, enriquecimento
-- Como analisar IP, domínio, URL, hash, arquivo, processo, comportamento
-- IOC ≠ TTP
-
-Depois deste módulo, seguimos para **13 — MITRE ATT&CK**.
+Módulo concluído ✅ — próximo: [**13 — MITRE ATT&CK**](../13-mitre-attack/).
