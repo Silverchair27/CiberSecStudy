@@ -20,8 +20,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Processos, serviços, systemd, cron
 - [x] SSH
 - [x] Logs: syslog, journalctl
-- [~] Rede: sockets, conexões, firewall, pacotes
-- [ ] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
+- [x] Rede: sockets, conexões, firewall (pacotes/PCAP fica para o Módulo 04)
+- [~] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
 
 ## 02. Windows para Blue Team
 - [ ] Arquitetura, processos, serviços, usuários/grupos, Registry

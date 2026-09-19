@@ -12,10 +12,11 @@ com ele.
 3. [Processos, systemd e cron na prática](03-processos-systemd-cron.md)
 4. [SSH](04-ssh.md)
 5. [Logs: syslog e journalctl](05-logs-syslog-journalctl.md)
+6. [Rede no Linux: sockets, conexões e firewall](06-rede-ss-ip-firewall.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Rede no Linux: sockets, conexões, firewall, pacotes
+- Comandos de investigação: grep, awk, sed, find, lsof
 - Rede: sockets, conexões, firewall, pacotes
 - Comandos de investigação: ps, top, ss, ip, grep, awk, sed, find, lsof
 
