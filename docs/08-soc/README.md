@@ -8,13 +8,11 @@ como documentar isso profissionalmente.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Estrutura de SOC, workflow e alert triage](01-estrutura-soc-workflow-triage.md) · [📄 PDF](01-estrutura-soc-workflow-triage.pdf)
+2. [TP vs. FP, severidade, priorização, case management e SLA](02-tp-fp-severidade-priorizacao-sla.md) · [📄 PDF](02-tp-fp-severidade-priorizacao-sla.pdf)
+3. [Metodologia de investigação de alertas](03-metodologia-investigacao-alertas.md) · [📄 PDF](03-metodologia-investigacao-alertas.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
+> As simulações de `ALERTA #00X` (Aula 3) acontecem ao vivo, na
+> conversa com o mentor — é só pedir quando quiser praticar.
 
-- Estrutura de SOC (N1/N2/N3), workflow, alert triage, escalation
-- TP (true positive) vs. FP (false positive), severidade, priorização,
-  case management, SLA
-- Simulações de alertas reais (`ALERTA #001`, ...) para você investigar
-
-Depois deste módulo, seguimos para **09 — SIEM**.
+Módulo concluído ✅ — próximo: [**09 — SIEM**](../09-siem/).

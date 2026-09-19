@@ -53,10 +53,11 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 07. Git e GitHub (portfólio) — ✅ concluído
 - [x] Repositórios, commits, branches, PRs, issues, documentação
 
-## 08. SOC — Security Operations Center
-- [ ] Estrutura (N1/N2/N3), workflow, alert triage, escalation
-- [ ] TP vs FP, severidade, priorização, case management, SLA
-- [ ] Simulações de alertas (`ALERTA #001`, ...)
+## 08. SOC — Security Operations Center — ✅ concluído (teoria)
+- [x] Estrutura (N1/N2/N3), workflow, alert triage, escalation
+- [x] TP vs FP, severidade, priorização, case management, SLA
+- [x] Simulações de alertas (`ALERTA #001`, ...) — metodologia
+      documentada; simulações reais acontecem ao vivo, sob pedido
 
 ## 09. SIEM
 - [ ] Coleta → parsing → normalização → enriquecimento → correlação → indexação → alertas
