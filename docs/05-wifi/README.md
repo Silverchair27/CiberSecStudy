@@ -11,14 +11,8 @@ não ofensivo por si só.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [802.11, SSID, BSSID, canais e frames](01-80211-ssid-bssid-canais-frames.md) · [📄 PDF](01-80211-ssid-bssid-canais-frames.pdf)
+2. [WPA, WPA2 e WPA3](02-wpa-wpa2-wpa3.md) · [📄 PDF](02-wpa-wpa2-wpa3.pdf)
+3. [Setup do AR9271 e monitoramento de tráfego wireless](03-ar9271-setup-monitoramento.md) · [📄 PDF](03-ar9271-setup-monitoramento.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- 802.11, SSID, BSSID, canais, frequência, frames (beacon/probe),
-  associação, autenticação
-- WPA, WPA2, WPA3
-- Setup do adaptador AR9271 (driver, interface, modos)
-- Monitoramento e análise de tráfego wireless
-
-Depois deste módulo, seguimos para **06 — Python para Blue Team**.
+Módulo concluído ✅ — próximo: [**06 — Python para Blue Team**](../06-python/).

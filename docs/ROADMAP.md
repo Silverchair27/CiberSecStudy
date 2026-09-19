@@ -40,11 +40,11 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] NetFlow, Zeek, Suricata, Wireshark
 - [x] Análise de PCAP (roteiro + fontes de laboratório; prática hands-on fica para quando houver PCAP em mãos)
 
-## 05. Wi-Fi / Wireless Security (AR9271)
-- [ ] 802.11, SSID/BSSID, canais, frames (beacon/probe), associação
-- [ ] WPA/WPA2/WPA3
-- [ ] Setup do adaptador AR9271 (driver, interface, modos)
-- [ ] Monitoramento e análise de tráfego wireless (somente em lab próprio)
+## 05. Wi-Fi / Wireless Security (AR9271) — ✅ concluído
+- [x] 802.11, SSID/BSSID, canais, frames (beacon/probe), associação
+- [x] WPA/WPA2/WPA3
+- [x] Setup do adaptador AR9271 (driver, interface, modos)
+- [x] Monitoramento e análise de tráfego wireless (somente em lab próprio)
 
 ## 06. Python para Blue Team
 - [ ] Fundamentos: variáveis, tipos, condições, loops, funções, arquivos, regex, JSON/CSV
