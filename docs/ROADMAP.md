@@ -37,8 +37,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 
 ## 04. Network Security
 - [x] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security
-- [ ] NetFlow, Zeek, Suricata, Wireshark
-- [ ] Análise de PCAP (exercícios de laboratório)
+- [x] NetFlow, Zeek, Suricata, Wireshark
+- [~] Análise de PCAP (exercícios de laboratório)
 
 ## 05. Wi-Fi / Wireless Security (AR9271)
 - [ ] 802.11, SSID/BSSID, canais, frames (beacon/probe), associação
