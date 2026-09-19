@@ -15,10 +15,11 @@ porta, qual protocolo, é isso normal ou suspeito?**
 1. [Endereçamento: LAN/WAN, Ethernet, MAC, IP, subnetting](01-lan-wan-ethernet-mac-ip-subnetting.md)
 2. [ARP e ICMP](02-arp-icmp.md)
 3. [TCP, UDP e portas](03-tcp-udp-portas.md)
+4. [DNS](04-dns.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- DNS
+- DHCP, NAT, roteamento, switching, VLAN
 - DNS, DHCP, NAT, roteamento, switching, VLAN
 - Firewall, proxy, VPN
 - HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
