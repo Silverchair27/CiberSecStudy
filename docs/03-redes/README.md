@@ -16,10 +16,12 @@ porta, qual protocolo, é isso normal ou suspeito?**
 2. [ARP e ICMP](02-arp-icmp.md)
 3. [TCP, UDP e portas](03-tcp-udp-portas.md)
 4. [DNS](04-dns.md)
+5. [DHCP, NAT, roteamento, switching e VLAN](05-dhcp-nat-roteamento-switching-vlan.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- DHCP, NAT, roteamento, switching, VLAN
+- Firewall, proxy, VPN
+- HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 - DNS, DHCP, NAT, roteamento, switching, VLAN
 - Firewall, proxy, VPN
 - HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
