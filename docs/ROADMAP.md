@@ -32,8 +32,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 03. Redes — fundamento central
 - [x] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
 - [x] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
-- [ ] Firewall, proxy, VPN
-- [ ] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
+- [x] Firewall, proxy, VPN
+- [~] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 
 ## 04. Network Security
 - [ ] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security

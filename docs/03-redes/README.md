@@ -17,10 +17,10 @@ porta, qual protocolo, é isso normal ou suspeito?**
 3. [TCP, UDP e portas](03-tcp-udp-portas.md)
 4. [DNS](04-dns.md)
 5. [DHCP, NAT, roteamento, switching e VLAN](05-dhcp-nat-roteamento-switching-vlan.md)
+6. [Firewall, proxy e VPN](06-firewall-proxy-vpn.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Firewall, proxy, VPN
 - HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 - DNS, DHCP, NAT, roteamento, switching, VLAN
 - Firewall, proxy, VPN
