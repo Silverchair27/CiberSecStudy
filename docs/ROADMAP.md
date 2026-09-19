@@ -82,9 +82,9 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Hipótese, baseline, comportamento anômalo, pivot, timeline
 - [x] Exercícios guiados (metodologia documentada; sessões reais ao vivo, sob pedido)
 
-## 15. Incident Response
-- [ ] Preparation → Identification → Triage → Containment → Eradication → Recovery → Lessons Learned
-- [ ] Incidentes simulados completos
+## 15. Incident Response — ✅ concluído
+- [x] Preparation → Identification → Triage → Containment → Eradication → Recovery → Lessons Learned
+- [x] Incidentes simulados completos (exemplo resolvido; sessões reais ao vivo, sob pedido)
 
 ## 16. Digital Forensics
 - [ ] Timeline, filesystem, memória, artefatos Windows/Linux, browser artifacts

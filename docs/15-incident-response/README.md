@@ -6,13 +6,9 @@ até o relatório final e as lições aprendidas.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [As fases da resposta a incidentes](01-fases-preparation-identification-containment-eradication-recovery.md) · [📄 PDF](01-fases-preparation-identification-containment-eradication-recovery.pdf)
+2. [Incidente simulado completo](02-incidente-simulado-completo.md) · [📄 PDF](02-incidente-simulado-completo.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
+> Quer conduzir sua própria resposta a incidente, ao vivo? É só pedir.
 
-- Preparation, Identification, Triage, Containment, Eradication,
-  Recovery, Lessons Learned
-- Incidentes simulados completos (host, usuário, processo, IOCs,
-  impacto, contenção, documentação, correção)
-
-Depois deste módulo, seguimos para **16 — Digital Forensics**.
+Módulo concluído ✅ — próximo: [**16 — Digital Forensics**](../16-digital-forensics/).
