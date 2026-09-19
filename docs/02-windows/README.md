@@ -9,10 +9,10 @@ com o olhar de "o que isso significa para detecção e investigação".
 
 1. [Arquitetura, processos, usuários e Registry](01-arquitetura-processos-registry.md)
 2. [PowerShell](02-powershell.md)
+3. [Windows Defender, Firewall, Task Scheduler e WMI](03-defender-firewall-taskscheduler-wmi.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Windows Defender, Windows Firewall, Task Scheduler, WMI
 - Event Viewer e Windows Event Logs (Event IDs essenciais)
 - Sysmon, PowerShell logging, process creation, logon events
 
