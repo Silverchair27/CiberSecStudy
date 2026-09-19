@@ -19,8 +19,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
 - [x] Processos, serviços, systemd, cron
 - [x] SSH
-- [~] Logs: syslog, journalctl
-- [ ] Rede: sockets, conexões, firewall, pacotes
+- [x] Logs: syslog, journalctl
+- [~] Rede: sockets, conexões, firewall, pacotes
 - [ ] Comandos: ps, top, ss, ip, journalctl, grep, awk, sed, find, lsof etc.
 
 ## 02. Windows para Blue Team

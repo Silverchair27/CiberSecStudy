@@ -11,10 +11,11 @@ com ele.
 2. [Permissões na prática: chmod, chown, sudo](02-permissoes-chmod-chown-sudo.md)
 3. [Processos, systemd e cron na prática](03-processos-systemd-cron.md)
 4. [SSH](04-ssh.md)
+5. [Logs: syslog e journalctl](05-logs-syslog-journalctl.md)
 
 ## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
 
-- Logs: syslog, journalctl
+- Rede no Linux: sockets, conexões, firewall, pacotes
 - Rede: sockets, conexões, firewall, pacotes
 - Comandos de investigação: ps, top, ss, ip, grep, awk, sed, find, lsof
 
