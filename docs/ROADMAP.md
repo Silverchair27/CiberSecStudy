@@ -26,8 +26,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 02. Windows para Blue Team
 - [x] Arquitetura, processos, serviços, usuários/grupos, Registry
 - [x] PowerShell, Defender, Firewall, Task Scheduler, WMI
-- [~] Event Viewer e Windows Event Logs (Event IDs essenciais)
-- [ ] Sysmon, PowerShell logging, process creation, logon events
+- [x] Event Viewer e Windows Event Logs (Event IDs essenciais)
+- [~] Sysmon, PowerShell logging, process creation, logon events
 
 ## 03. Redes — fundamento central
 - [ ] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
