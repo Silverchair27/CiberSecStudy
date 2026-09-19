@@ -7,11 +7,7 @@ classificar e comunicar comportamento de atacante.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [Estrutura: táticas, técnicas e sub-técnicas](01-estrutura-taticas-tecnicas-subtecnicas.md) · [📄 PDF](01-estrutura-taticas-tecnicas-subtecnicas.pdf)
+2. [Aplicando o framework completo](02-aplicando-o-framework-completo.md) · [📄 PDF](02-aplicando-o-framework-completo.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Tática → Técnica → Procedimento → Evidência → Detecção → Resposta
-- Como navegar e usar o MITRE ATT&CK na prática
-
-Depois deste módulo, seguimos para **14 — Threat Hunting**.
+Módulo concluído ✅ — próximo: [**14 — Threat Hunting**](../14-threat-hunting/).

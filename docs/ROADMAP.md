@@ -75,8 +75,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] IOC, IOA, TTP, threat actor, campanha, enriquecimento
 - [x] Análise de IP/domínio/URL/hash
 
-## 13. MITRE ATT&CK
-- [ ] Tática → Técnica → Procedimento → Evidência → Detecção → Resposta
+## 13. MITRE ATT&CK — ✅ concluído
+- [x] Tática → Técnica → Procedimento → Evidência → Detecção → Resposta
 
 ## 14. Threat Hunting
 - [ ] Hipótese, baseline, comportamento anômalo, pivot, timeline
