@@ -8,15 +8,15 @@ isso?").
 Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 + prática/lab feita).
 
-## 00. Fundamentos de computação
+## 00. Fundamentos de computação — ✅ concluído
 - [x] Hardware, CPU, RAM, armazenamento
 - [x] Processos, threads, memória, arquivos
 - [x] Sistemas operacionais, usuários, grupos, permissões
 - [x] Serviços, cliente/servidor, virtualização, containers
-- [~] Terminal e processos em background
+- [x] Terminal e processos em background
 
 ## 01. Linux para Blue Team
-- [ ] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
+- [~] Terminal, Bash, filesystem, permissões, usuários/grupos, sudo
 - [ ] Processos, serviços, systemd, cron, SSH
 - [ ] Logs: syslog, journalctl
 - [ ] Rede: sockets, conexões, firewall, pacotes

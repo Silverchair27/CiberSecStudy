@@ -10,9 +10,6 @@ só entende um **log estranho** se souber o que gera um log.
 1. [Hardware, CPU, RAM, armazenamento e processos](01-hardware-cpu-ram-processos.md)
 2. [Sistemas operacionais, usuários, grupos e permissões](02-so-usuarios-grupos-permissoes.md)
 3. [Serviços, cliente/servidor, virtualização e containers](03-servicos-cliente-servidor-virtualizacao.md)
+4. [Terminal e processos em background](04-terminal-processos-background.md)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Terminal e processos em background
-
-Depois deste módulo, seguimos para **01 — Linux para Blue Team**.
+Módulo concluído ✅ — próximo: [**01 — Linux para Blue Team**](../01-linux/).
