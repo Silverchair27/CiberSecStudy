@@ -89,8 +89,8 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 ## 16. Digital Forensics — ✅ concluído
 - [x] Timeline, filesystem, memória, artefatos Windows/Linux, browser artifacts
 
-## 17. Red Team como apoio ao Blue Team
-- [ ] PowerShell ofensivo, credential dumping, persistence — cada um com ataque → evidência → detecção → investigação → mitigação
+## 17. Red Team como apoio ao Blue Team — ✅ concluído
+- [x] PowerShell ofensivo, credential dumping, persistence — cada um com ataque → evidência → detecção → investigação → mitigação
 
 ## 18. Web Security
 - [ ] HTTP/HTTPS, auth, sessões, APIs, TLS

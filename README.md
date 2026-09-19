@@ -46,11 +46,12 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-✅ Módulos 00-16 concluídos (Fundamentos, Linux, Windows, Redes, Network
+✅ Módulos 00-17 concluídos (Fundamentos, Linux, Windows, Redes, Network
 Security, Wi-Fi/Wireless Security, Python para Blue Team, Git/GitHub,
 SOC, SIEM, EDR, Sysmon, Threat Intelligence, MITRE ATT&CK, Threat
-Hunting, Incident Response, Digital Forensics)
-🟢 Módulo em andamento: **17 — Red Team como Apoio ao Blue Team**
+Hunting, Incident Response, Digital Forensics, Red Team como Apoio ao
+Blue Team)
+🟢 Módulo em andamento: **18 — Web Security**
 (ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).
 Quer praticar ao vivo? É só pedir um `ALERTA #001` (Módulo 08), uma
 sessão de Threat Hunting (Módulo 14), ou conduzir uma resposta a

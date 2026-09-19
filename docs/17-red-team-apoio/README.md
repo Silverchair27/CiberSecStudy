@@ -8,15 +8,8 @@ só para fortalecer sua capacidade de defender, nunca isoladamente.
 
 ## Aulas
 
-*(em construção — primeira aula a caminho)*
+1. [PowerShell ofensivo avançado](01-powershell-ofensivo-avancado.md) · [📄 PDF](01-powershell-ofensivo-avancado.pdf)
+2. [Credential Dumping](02-credential-dumping.md) · [📄 PDF](02-credential-dumping.pdf)
+3. [Persistência avançada](03-persistencia-avancada.md) · [📄 PDF](03-persistencia-avancada.pdf)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- PowerShell ofensivo (aprofundado)
-- Credential dumping
-- Persistence (técnicas adicionais)
-
-Cada técnica: conceito → risco → laboratório → evidências → detecção →
-prevenção, sempre em ambiente autorizado/próprio.
-
-Depois deste módulo, seguimos para **18 — Web Security**.
+Módulo concluído ✅ — próximo: [**18 — Web Security**](../18-web-security/).
