@@ -31,7 +31,7 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 
 ## 03. Redes — fundamento central
 - [x] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
-- [ ] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
+- [~] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
 - [ ] Firewall, proxy, VPN
 - [ ] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 
