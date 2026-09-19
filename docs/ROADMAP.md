@@ -29,11 +29,11 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Event Viewer e Windows Event Logs (Event IDs essenciais)
 - [x] Sysmon, PowerShell logging, process creation, logon events
 
-## 03. Redes — fundamento central
+## 03. Redes — fundamento central — ✅ concluído
 - [x] LAN/WAN, Ethernet, MAC, IP (v4/v6), subnetting, ARP, ICMP
 - [x] TCP/UDP, portas, DNS, DHCP, NAT, roteamento, switching, VLAN
 - [x] Firewall, proxy, VPN
-- [~] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
+- [x] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 
 ## 04. Network Security
 - [ ] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security

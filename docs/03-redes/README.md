@@ -18,10 +18,9 @@ porta, qual protocolo, é isso normal ou suspeito?**
 4. [DNS](04-dns.md)
 5. [DHCP, NAT, roteamento, switching e VLAN](05-dhcp-nat-roteamento-switching-vlan.md)
 6. [Firewall, proxy e VPN](06-firewall-proxy-vpn.md)
+7. [HTTP/HTTPS, TLS, cookies, sessões e APIs](07-http-https-tls-cookies-sessoes-apis.md)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
+Módulo concluído ✅ — próximo: [**04 — Network Security**](../04-network-security/).
 - DNS, DHCP, NAT, roteamento, switching, VLAN
 - Firewall, proxy, VPN
 - HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs

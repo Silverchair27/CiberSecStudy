@@ -46,8 +46,6 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-✅ Módulo 00 — Fundamentos de Computação (concluído)
-✅ Módulo 01 — Linux para Blue Team (concluído)
-✅ Módulo 02 — Windows para Blue Team (concluído)
-🟢 Módulo em andamento: **03 — Redes**
+✅ Módulos 00-03 concluídos (Fundamentos, Linux, Windows, Redes)
+🟢 Módulo em andamento: **04 — Network Security**
 (ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).
