@@ -46,6 +46,6 @@ SOC/IR/Threat Hunting) estão em [`CLAUDE.md`](CLAUDE.md).
 
 ## Status
 
-✅ Módulos 00-03 concluídos (Fundamentos, Linux, Windows, Redes)
-🟢 Módulo em andamento: **04 — Network Security**
+✅ Módulos 00-04 concluídos (Fundamentos, Linux, Windows, Redes, Network Security)
+🟢 Módulo em andamento: **05 — Wi-Fi / Wireless Security**
 (ver [`docs/ROADMAP.md`](docs/ROADMAP.md) para o progresso completo).

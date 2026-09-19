@@ -9,10 +9,6 @@ NOC/SOC de rede.
 
 1. [IDS, IPS, NIDS e NIPS](01-ids-ips-nids-nips.md)
 2. [Wireshark, Zeek, Suricata e NetFlow](02-wireshark-zeek-suricata-netflow.md)
+3. [Análise de PCAP](03-analise-de-pcap.md)
 
-## Próximos passos deste módulo (ver progresso em `../ROADMAP.md`)
-
-- Análise de PCAP (exercícios de laboratório)
-
-Depois deste módulo, seguimos para **05 — Wi-Fi / Wireless Security
-(AR9271)**.
+Módulo concluído ✅ — próximo: [**05 — Wi-Fi / Wireless Security**](../05-wifi/).

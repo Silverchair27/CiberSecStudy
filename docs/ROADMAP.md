@@ -35,10 +35,10 @@ Legenda: `[ ]` não iniciado · `[~]` em andamento · `[x]` concluído (teoria
 - [x] Firewall, proxy, VPN
 - [x] HTTP/HTTPS, TLS, certificados, cookies, sessões, APIs
 
-## 04. Network Security
+## 04. Network Security — ✅ concluído
 - [x] Firewall, IDS/IPS, NIDS/NIPS, proxy, DNS security
 - [x] NetFlow, Zeek, Suricata, Wireshark
-- [~] Análise de PCAP (exercícios de laboratório)
+- [x] Análise de PCAP (roteiro + fontes de laboratório; prática hands-on fica para quando houver PCAP em mãos)
 
 ## 05. Wi-Fi / Wireless Security (AR9271)
 - [ ] 802.11, SSID/BSSID, canais, frames (beacon/probe), associação
