@@ -1,5 +1,7 @@
 # Aula 6 (Módulo 01) — Rede no Linux: sockets, conexões e firewall
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](06-rede-ss-ip-firewall.pdf)
+
 > Esta aula dá uma primeira visão prática de rede no Linux. A teoria
 > completa de redes (IP, portas, TCP/UDP, DNS etc.) é o **Módulo 03**,
 > que vem logo em seguida. Aqui o objetivo é já saber rodar os comandos

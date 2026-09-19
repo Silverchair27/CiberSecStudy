@@ -1,5 +1,7 @@
 # Aula 7 (Módulo 03) — HTTP/HTTPS, TLS, Cookies, Sessões e APIs
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](07-http-https-tls-cookies-sessoes-apis.pdf)
+
 Esta é a aula de consolidação do Módulo 03. Tudo que vimos até aqui
 (IP, porta, TCP, DNS) existe para, no fim, entregar o protocolo que
 domina o tráfego da internet moderna: **HTTP**.

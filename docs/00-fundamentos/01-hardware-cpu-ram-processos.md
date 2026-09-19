@@ -1,5 +1,7 @@
 # Aula 1 — Hardware, CPU, RAM, armazenamento e processos
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](01-hardware-cpu-ram-processos.pdf)
+
 ## 1. O que é um computador (visão simples)
 
 Um computador é uma máquina que **recebe instruções, processa dados e

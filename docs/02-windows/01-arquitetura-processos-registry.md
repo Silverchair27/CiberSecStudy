@@ -1,5 +1,7 @@
 # Aula 1 (Módulo 02) — Arquitetura, processos, usuários e Registry no Windows
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](01-arquitetura-processos-registry.pdf)
+
 ## 1. Do Linux para o Windows — o que muda e o que se repete
 
 Boa notícia: os **conceitos** do Módulo 00 (CPU/RAM/disco, processos,

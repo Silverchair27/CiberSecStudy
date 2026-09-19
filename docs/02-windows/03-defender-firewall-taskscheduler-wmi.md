@@ -1,5 +1,7 @@
 # Aula 3 (Módulo 02) — Windows Defender, Firewall, Task Scheduler e WMI
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](03-defender-firewall-taskscheduler-wmi.pdf)
+
 ## 1. Windows Defender (Microsoft Defender Antivirus)
 
 É o antivírus/antimalware **nativo** do Windows, instalado e ativo por

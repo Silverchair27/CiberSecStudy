@@ -1,5 +1,7 @@
 # Aula 2 (Módulo 01) — Permissões na prática: chmod, chown, sudo
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](02-permissoes-chmod-chown-sudo.pdf)
+
 ## 1. Relembrando a teoria (Módulo 00, Aula 2)
 
 Vimos que cada arquivo tem permissões `rwx` para três grupos: **dono**,

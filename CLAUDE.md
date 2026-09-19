@@ -95,6 +95,25 @@ Se o caminho do Chromium mudar (variável `CHROME` no topo do script),
 localize com `find /opt/pw-browsers -iname chrome -type f`. README.md e
 ROADMAP.md **não** geram PDF — só as aulas numeradas.
 
+### Botão de download do PDF
+
+Toda aula numerada (`docs/**/NN-*.md`) deve ter, logo após o H1 (linha 1),
+um badge linkando para o `.pdf` irmão (link **relativo**, não URL
+absoluta de branch — assim funciona em qualquer branch/após merge):
+
+```
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](NN-nome-do-arquivo.pdf)
+```
+
+`scripts/gen_pdfs.py` remove essa linha automaticamente antes de gerar o
+PDF (via `BADGE_LINE_RE`), para o PDF não conter um link "baixe este
+PDF" dentro dele mesmo — não precisa se preocupar com isso ao editar.
+No `README.md` de cada módulo, cada item da lista "## Aulas" também leva
+um link extra `· [📄 PDF](NN-nome-do-arquivo.pdf)` ao lado do link para o
+`.md`. Ao clicar no `.pdf` pelo GitHub, o próprio visualizador de PDF do
+GitHub já mostra um botão nativo de download — não é preciso nenhuma
+configuração adicional no repositório para isso.
+
 ## Simulações (SOC / Threat Hunting / IR)
 
 Ao propor exercícios práticos, use formatos realistas:

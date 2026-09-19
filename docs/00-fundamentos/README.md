@@ -7,9 +7,9 @@ só entende um **log estranho** se souber o que gera um log.
 
 ## Aulas
 
-1. [Hardware, CPU, RAM, armazenamento e processos](01-hardware-cpu-ram-processos.md)
-2. [Sistemas operacionais, usuários, grupos e permissões](02-so-usuarios-grupos-permissoes.md)
-3. [Serviços, cliente/servidor, virtualização e containers](03-servicos-cliente-servidor-virtualizacao.md)
-4. [Terminal e processos em background](04-terminal-processos-background.md)
+1. [Hardware, CPU, RAM, armazenamento e processos](01-hardware-cpu-ram-processos.md) · [📄 PDF](01-hardware-cpu-ram-processos.pdf)
+2. [Sistemas operacionais, usuários, grupos e permissões](02-so-usuarios-grupos-permissoes.md) · [📄 PDF](02-so-usuarios-grupos-permissoes.pdf)
+3. [Serviços, cliente/servidor, virtualização e containers](03-servicos-cliente-servidor-virtualizacao.md) · [📄 PDF](03-servicos-cliente-servidor-virtualizacao.pdf)
+4. [Terminal e processos em background](04-terminal-processos-background.md) · [📄 PDF](04-terminal-processos-background.pdf)
 
 Módulo concluído ✅ — próximo: [**01 — Linux para Blue Team**](../01-linux/).

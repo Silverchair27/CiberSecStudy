@@ -1,5 +1,7 @@
 # Aula 4 (Módulo 03) — DNS
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](04-dns.pdf)
+
 ## 1. O problema que DNS resolve
 
 Computadores se comunicam por **IP** (Aula 1), mas seres humanos

@@ -1,5 +1,7 @@
 # Aula 4 (Módulo 02) — Event Viewer e Windows Event Logs
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](04-event-viewer-event-ids.pdf)
+
 ## 1. O que é o Event Viewer (visão simples)
 
 Assim como o Linux registra eventos em `/var/log` ou via `journalctl`

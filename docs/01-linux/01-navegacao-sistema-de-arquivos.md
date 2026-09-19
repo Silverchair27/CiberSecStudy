@@ -1,5 +1,7 @@
 # Aula 1 (Módulo 01) — Navegação e Sistema de Arquivos
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](01-navegacao-sistema-de-arquivos.pdf)
+
 ## 1. Tudo é um arquivo (quase)
 
 No Linux, quase tudo é representado como **arquivo**: seus documentos,

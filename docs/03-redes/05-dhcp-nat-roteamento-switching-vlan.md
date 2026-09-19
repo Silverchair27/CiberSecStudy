@@ -1,5 +1,7 @@
 # Aula 5 (Módulo 03) — DHCP, NAT, Roteamento, Switching e VLAN
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](05-dhcp-nat-roteamento-switching-vlan.pdf)
+
 ## 1. DHCP — como um dispositivo recebe IP automaticamente
 
 Sem DHCP, alguém precisaria configurar manualmente o IP de **cada**

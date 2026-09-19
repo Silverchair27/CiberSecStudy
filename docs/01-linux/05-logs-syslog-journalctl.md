@@ -1,5 +1,7 @@
 # Aula 5 (Módulo 01) — Logs: syslog e journalctl
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](05-logs-syslog-journalctl.pdf)
+
 ## 1. O que é um log (visão simples)
 
 Um **log** é um registro de "o que aconteceu, quando aconteceu". Todo

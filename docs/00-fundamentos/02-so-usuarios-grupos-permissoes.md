@@ -1,5 +1,7 @@
 # Aula 2 — Sistemas Operacionais, Usuários, Grupos e Permissões
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](02-so-usuarios-grupos-permissoes.pdf)
+
 ## 1. O que é um Sistema Operacional (visão simples)
 
 Na Aula 1 vimos que a CPU executa instruções e a RAM guarda o que está em

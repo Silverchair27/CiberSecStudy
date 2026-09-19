@@ -1,5 +1,7 @@
 # Aula 4 — Terminal e Processos em Background
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](04-terminal-processos-background.pdf)
+
 ## 1. O que é o Terminal (visão simples)
 
 Até agora falamos de conceitos (processo, usuário, serviço). O **terminal**

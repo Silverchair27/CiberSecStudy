@@ -1,5 +1,7 @@
 # Aula 1 (Módulo 04) — IDS, IPS, NIDS e NIPS
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](01-ids-ips-nids-nips.pdf)
+
 ## 1. IDS vs. IPS — detectar vs. bloquear
 
 Já vimos firewall (Módulo 03, Aula 6): ele decide **o que pode passar**

@@ -1,5 +1,7 @@
 # Aula 2 (Módulo 03) — ARP e ICMP
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](02-arp-icmp.pdf)
+
 ## 1. O problema que o ARP resolve
 
 Na Aula 1, vimos que dentro de uma LAN os dispositivos têm **dois**

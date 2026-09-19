@@ -1,5 +1,7 @@
 # Aula 1 (Módulo 03) — LAN, WAN, Ethernet, MAC, IP e Subnetting
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](01-lan-wan-ethernet-mac-ip-subnetting.pdf)
+
 ## 1. LAN e WAN (visão simples)
 
 - **LAN** (*Local Area Network*): uma rede pequena, geograficamente

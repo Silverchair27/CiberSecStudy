@@ -1,5 +1,7 @@
 # Aula 4 (Módulo 01) — SSH
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](04-ssh.pdf)
+
 ## 1. O que é SSH (visão simples)
 
 **SSH** (*Secure Shell*) é o protocolo padrão para acessar um terminal de

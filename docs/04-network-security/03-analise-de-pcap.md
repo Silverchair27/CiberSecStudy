@@ -1,5 +1,7 @@
 # Aula 3 (Módulo 04) — Análise de PCAP
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](03-analise-de-pcap.pdf)
+
 Esta é a aula de consolidação do Módulo 04: juntar tudo (Módulo 03 +
 Wireshark) em um **roteiro prático** de análise de uma captura de
 tráfego (arquivo `.pcap`/`.pcapng`).

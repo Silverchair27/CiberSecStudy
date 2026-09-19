@@ -1,5 +1,7 @@
 # Aula 5 (Módulo 02) — Sysmon e PowerShell Logging
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](05-sysmon-powershell-logging.pdf)
+
 Esta é a aula de consolidação do Módulo 02. Vamos ver por que os logs
 nativos do Windows (Aula 4) muitas vezes **não são suficientes**, e quais
 duas ferramentas resolvem isso na prática.

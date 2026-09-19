@@ -1,5 +1,7 @@
 # Aula 3 (Módulo 03) — TCP, UDP e Portas
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](03-tcp-udp-portas.pdf)
+
 ## 1. O problema que porta resolve
 
 Um computador tem **um único IP** (ou poucos), mas pode rodar **dezenas**

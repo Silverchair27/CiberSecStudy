@@ -1,5 +1,7 @@
 # Aula 6 (Módulo 03) — Firewall, Proxy e VPN
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](06-firewall-proxy-vpn.pdf)
+
 ## 1. Firewall — o "porteiro" da rede
 
 Já mencionamos firewall algumas vezes (Módulo 01, Aula 6; Módulo 02,

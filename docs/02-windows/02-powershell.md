@@ -1,5 +1,7 @@
 # Aula 2 (Módulo 02) — PowerShell
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](02-powershell.pdf)
+
 ## 1. O que é PowerShell (visão simples)
 
 Assim como o Bash é o "shell" do Linux (Módulo 00, Aula 4), o

@@ -1,5 +1,7 @@
 # Aula 2 (Módulo 04) — Wireshark, Zeek, Suricata e NetFlow
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](02-wireshark-zeek-suricata-netflow.pdf)
+
 ## 1. Duas formas de olhar para o tráfego de rede
 
 Existem, no fundo, duas abordagens complementares para observar

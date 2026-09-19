@@ -1,5 +1,7 @@
 # Aula 7 (Módulo 01) — Comandos de investigação: grep, awk, sed, find, lsof
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](07-grep-awk-sed-find-lsof.pdf)
+
 Esta é a aula de consolidação do Módulo 01. Os comandos anteriores
 (`ps`, `ss`, `journalctl`...) **mostram** informação; os desta aula
 servem para **filtrar, transformar e localizar** — normalmente

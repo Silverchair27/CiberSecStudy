@@ -1,5 +1,7 @@
 # Aula 3 — Serviços, Cliente/Servidor, Virtualização e Containers
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](03-servicos-cliente-servidor-virtualizacao.pdf)
+
 ## 1. Serviços (o que roda sem você pedir)
 
 Na Aula 1 vimos processos: programas em execução. Um **serviço** (Linux

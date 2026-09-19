@@ -1,5 +1,7 @@
 # Aula 3 (Módulo 01) — Processos, systemd e cron na prática
 
+[![📄 Baixar PDF desta aula](https://img.shields.io/badge/📄_Baixar-PDF_desta_aula-2b6cb0?style=for-the-badge)](03-processos-systemd-cron.pdf)
+
 ## 1. `ps` de verdade — lendo a árvore de processos
 
 Já usamos `ps -ef` na Aula 1 do Módulo 00. Agora vamos entender cada

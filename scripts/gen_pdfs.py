@@ -6,11 +6,16 @@ ex.: `find /opt/pw-browsers -iname chrome -type f`).
 
 Uso: python3 scripts/gen_pdfs.py
 """
+import re
 import subprocess
 import sys
 import tempfile
 from pathlib import Path
 import markdown
+
+# Cada aula tem um badge "Baixar PDF desta aula" logo após o H1, útil só
+# na renderização do GitHub — não faz sentido dentro do próprio PDF.
+BADGE_LINE_RE = re.compile(r"^\[!\[📄 Baixar PDF desta aula\].*$\n?", re.MULTILINE)
 
 REPO = Path(__file__).resolve().parent.parent
 CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
@@ -121,6 +126,7 @@ ok, fail = 0, []
 for md_path in lesson_files:
     md.reset()
     text = md_path.read_text(encoding="utf-8")
+    text = BADGE_LINE_RE.sub("", text)
     body_html = md.convert(text)
     title = md_path.stem
     html_doc = f"""<!doctype html>
